@@ -33,7 +33,7 @@ Tailwind CSS CDN: Used for quick styling.
 Custom JS: Handles mobile menu toggle, smooth scrolling, and skill bar animation.
 
 📥 Google Drive Link
-https://drive.google.com/drive/folders/1nzMvaMhzzkj_wGjhz_MwJ--O4B_UkDNh
+https://drive.google.com/drive/folders/1yGzlvo_ZGjeAZF4OjP_jbkO32tqGhYm1?usp=sharing
 
 🔗 Live Demo
 👉 https://capable-rabanadas-b4932c.netlify.app/
